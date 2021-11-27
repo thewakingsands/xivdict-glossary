@@ -123,7 +123,7 @@ LB：@极限技
 中二盾：骑士技能忠义之盾（已删除），现为相同效果的<xiv-skill>钢铁信念</xiv-skill>。
 中二剑：忠义之剑（已删除），有同名buff。
 深喉：骑士技能<xiv-skill>深仁厚泽</xiv-skill>（万不可念错）。
-最强单奶：@深喉。
+最强单奶：@深喉
 大宝剑：骑士技能<xiv-skill>悔罪</xiv-skill>。
 大保健：@大宝剑
 FC：战士技能<xiv-skill>裂石飞环</xiv-skill>。
